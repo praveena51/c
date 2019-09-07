@@ -8,3 +8,8 @@ printf("*praveena*\n");
 printf("***********\n");
 getch();
 }
+
+output:
+*********
+*praveena*
+***********
